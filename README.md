@@ -24,4 +24,9 @@
 ##### Layout Design:
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+###### Contact:
+:envelope: Email: rauleffting94@gmail.com 
+&nbsp;
+
+:briefcase: LinkedIn: https://www.linkedin.com/in/raul-effting-6b94a4254/
 
