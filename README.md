@@ -28,7 +28,7 @@
 :envelope: Email: rauleffting94@gmail.com 
 &nbsp;
 
-:briefcase: LinkedIn: https://www.linkedin.com/in/raul-effting-6b94a4254/
+:briefcase: LinkedIn: https://www.linkedin.com/in/rauleffting/
 
 <br/>  
 
